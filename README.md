@@ -26,9 +26,9 @@ experiences := []*Experience{
 ```golang
 educations := []*Education{
   &Education{
-    School: "University of Toronto",
-    Degree: "Bachelor of Science",
-    Major: "Computer Science",
+    School:          "University of Toronto",
+    Degree:          "Bachelor of Science",
+    Major:           "Computer Science",
     CompeletionDate: "2021/11",
   }
 }
