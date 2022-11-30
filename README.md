@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**junzhengca/junzhengca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jun.
 
-Here are some ideas to get you started:
+#### Experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```golang
+experiences := []*Experience{
+  &Experience{
+    Company: "Google",
+    Title:   "Software Engineer",
+    Start:   "2021/09",
+    End:     nil,
+  },
+  &Experience{
+    Company: "Royal Bank of Canada",
+    Title:   "Software Developer Intern",
+    Start:   "2019/05",
+    End:     "2019/08",
+  },
+}
+```
+
+#### Education
+
+```golang
+educations := []*Education{
+  &Education{
+    School: "University of Toronto",
+    Degree: "Bachelor of Science",
+    Major: "Computer Science",
+    CompeletionDate: "2021/11",
+  }
+}
+```
