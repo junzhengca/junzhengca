@@ -30,6 +30,6 @@ educations := []*Education{
     Degree:          "Bachelor of Science",
     Major:           "Computer Science",
     CompeletionDate: "2021/11",
-  }
+  },
 }
 ```
