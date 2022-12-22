@@ -2,6 +2,9 @@
 
 My name is Jun.
 
+* My hacking blog: https://defr0st.netlify.app/
+* My LinkedIn: https://www.linkedin.com/in/jun-zheng-ca/
+
 #### Experiences
 
 ```golang
