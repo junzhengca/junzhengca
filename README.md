@@ -2,7 +2,7 @@
 
 My name is Jun.
 
-* My hacking blog: https://defr0st.netlify.app/
+* [My hacking blog](https://defr0st.gitbook.io/defr0st/)
 * My LinkedIn: https://www.linkedin.com/in/jun-zheng-ca/
 
 #### Experiences
