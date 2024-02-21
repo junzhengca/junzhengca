@@ -33,3 +33,9 @@ educations := []*Education{
   },
 }
 ```
+
+#### Security Research
+
+I also do some security research on the side, you can find me on various platforms using the handle `antin0de`.
+
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Antin0de.png" alt="TryHackMe">
