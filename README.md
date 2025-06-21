@@ -4,34 +4,40 @@ My name is Jun.
 
 #### Experiences
 
-```golang
-experiences := []*Experience{
-  &Experience{
-    Company: "Google",
-    Title:   "Software Engineer",
-    Start:   "2021/09",
-    End:     nil,
-  },
-  &Experience{
-    Company: "Royal Bank of Canada",
-    Title:   "Software Developer Intern",
-    Start:   "2019/05",
-    End:     "2019/08",
-  },
-}
+```cpp
+std::vector<Experience*> experiences;
+
+Experience* google_experience = new Experience{
+    "Google",
+    "Software Engineer",
+    "2021/09",
+    std::nullopt,
+    {"Agentspace", "NotebookLM Enterprise"}
+};
+experiences.push_back(google_experience);
+
+Experience* rbc_experience = new Experience{
+    "Royal Bank of Canada",
+    "Software Developer Intern",
+    "2019/05",
+    "2019/08",
+    {"Technology and Operations"}
+};
+experiences.push_back(rbc_experience);
 ```
 
 #### Education
 
-```golang
-educations := []*Education{
-  &Education{
-    School:          "University of Toronto",
-    Degree:          "Bachelor of Science",
-    Major:           "Computer Science",
-    CompeletionDate: "2021/11",
-  },
-}
+```cpp
+std::vector<Education*> educations;
+
+Education* uoft_education = new Education{
+    "University of Toronto",
+    "Bachelor of Science",
+    "Computer Science",
+    "2021/11"
+};
+educations.push_back(uoft_education);
 ```
 
 #### Security Research
