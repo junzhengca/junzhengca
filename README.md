@@ -12,7 +12,7 @@ Experience* google_experience = new Experience{
     "Software Engineer",
     "2021/09",
     std::nullopt,
-    {"Agentspace", "NotebookLM Enterprise"}
+    {"Gemini Enterprise", "NotebookLM Enterprise"}
 };
 experiences.push_back(google_experience);
 
