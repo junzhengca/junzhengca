@@ -45,3 +45,9 @@ educations.push_back(uoft_education);
 I also do some security research on the side, you can find me on various platforms using the handle `antin0de`.
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/Antin0de.png" alt="TryHackMe">
+
+ #### Softwares
+
+Here are some tools I find useful. I'm not affiliated with any of them; I just think they're genuinely good. Most of them are free, so please contribute financially if you have the means. Let's keep the open-source and free software communities thriving!
+
+![Disk Wipe](https://www.diskwipe.org/) - Windows portable USB / disk wiping software, great if you want to dispose some SSDs or USB drives.
