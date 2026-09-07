@@ -53,3 +53,4 @@ I also do some security research on the side, you can find me on various platfor
 Here are some tools I find useful. I'm not affiliated with any of them; I just think they're genuinely good. Most of them are free, so please contribute financially if you have the means. Let's keep the open-source and free software communities thriving!
 
 - [Disk Wipe](https://www.diskwipe.org/) - Windows portable USB / disk wiping software, great if you want to dispose some SSDs or USB drives.
+- [DW Proton](https://dawn.wine/dawn-winery/dwproton) - Dawn Winery's custom Proton fork, if you want to play various gatcha games (NTE, Wuthering Waves, etc) on Linux, this is the Proton fork to use.
