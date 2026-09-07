@@ -46,6 +46,8 @@ I also do some security research on the side, you can find me on various platfor
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/Antin0de.png" alt="TryHackMe">
 
+ [![HTB Badge](https://www.htbbadge.tech/api/badge?user=1099089)](https://app.hackthebox.com/public/users/1099089)
+
  #### Softwares
 
 Here are some tools I find useful. I'm not affiliated with any of them; I just think they're genuinely good. Most of them are free, so please contribute financially if you have the means. Let's keep the open-source and free software communities thriving!
